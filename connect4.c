@@ -1,5 +1,4 @@
-// Alex Brousse - atbhz7
-// CS1050 - Homework 2 
+//Connect 4
 
 #include <stdio.h>
 
