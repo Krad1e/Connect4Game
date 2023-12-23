@@ -1,3 +1,4 @@
+// Alex Brousse
 //Connect 4
 
 #include <stdio.h>
